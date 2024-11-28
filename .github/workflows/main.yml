@@ -75,8 +75,6 @@ jobs:
     steps:
       - name: 部署到GitHub Pages
         id: deployment
-<<<<<<< HEAD
         uses: actions/deploy-pages@v2
-=======
-        uses: actions/deploy-pages@v2
->>>>>>> 683bd4434466802be93f04123c10c669519cc9a0
+
+        
