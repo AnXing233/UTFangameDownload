@@ -1,0 +1,4 @@
+[submodule "public"]
+	path = public
+	url = https://github.com/AnXing233/UTFangameDownload.github.io.git
+	branch = main
